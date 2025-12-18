@@ -43,6 +43,10 @@ Built as a project to practice working on a complete app flow: listings, search,
 
 ---
 
+## 🍿 Video
+
+![Project Demo](./flatinoGif.gif)
+
 ---
 
 ## 📩 Source Code
